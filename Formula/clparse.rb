@@ -1,8 +1,8 @@
 class Clparse < Formula
   desc "Command-line tool for parsing Keep A Changelog formatted CHANGELOGs"
   homepage "https://github.com/marcaddeo/clparse"
-  url "https://github.com/marcaddeo/clparse/releases/download/0.1.0/clparse-0.1.0-macOS.tar.gz"
-  sha256 "3525dcbaab8599a310028a2d3158cff83675e58a4685078429d70ba2f9e86eed"
+  url "https://github.com/marcaddeo/clparse/releases/download/0.2.0/clparse-0.2.0-macOS.tar.gz"
+  sha256 "5eb741ec9381064ca5ea98cb1c65206b58aabc18fd800db304bdc0b60d3dd94e"
 
   def install
     bin.install "clparse"
