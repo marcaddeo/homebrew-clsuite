@@ -1,8 +1,8 @@
 class Cl < Formula
   desc "Command-line tool for managing a Keep A Changelog format CHANGELOG file"
   homepage "https://github.com/marcaddeo/cl"
-  url "https://github.com/marcaddeo/cl/releases/download/0.2.0/cl-0.2.0-macOS.tar.gz"
-  sha256 "3ad5ebf34fea84571bc785d3d87ec5e48d97244248b0f7bc4387ab6a3189fd0d"
+  url "https://github.com/marcaddeo/cl/releases/download/0.3.0/cl-0.3.0-macOS.tar.gz"
+  sha256 "7e1bfb30356a84faa1127b1d1fca7d3e51d55fd3377bd4eeffd549820cc10094"
 
   def install
     bin.install "cl"
