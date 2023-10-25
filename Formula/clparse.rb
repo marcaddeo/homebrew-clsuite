@@ -5,12 +5,12 @@ class Clparse < Formula
   on_macos do
     on_arm do
       url "https://github.com/marcaddeo/clparse/releases/download/0.9.1/clparse-0.9.1-aarch64-apple-darwin.tar.gz"
-      sha256 "e88f0a492c65b0d8d20a5ae2207ec508b0c9d3d87015f61f95451048382d3815"
+      sha256 "bb4d20c5d24e8221505f249aafd1219780d7d07fcc4531babf043147d5e44e83"
     end
 
     on_intel do
       url "https://github.com/marcaddeo/clparse/releases/download/0.9.1/clparse-0.9.1-x86_64-apple-darwin.tar.gz"
-      sha256 "b4febf3f65a8c3d48b3de993637daa9803beba7f38892b116c612120c66850e8"
+      sha256 "e691bf83066b971362667b1847f2467f0ad175f51c11f25bcfbbf6b8c1d33844"
     end
   end
 
